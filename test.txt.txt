@@ -2,3 +2,4 @@ testing git
 testing changes
 adding one more line for sync
 add second line
+add thirdline
